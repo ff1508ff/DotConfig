@@ -1,0 +1,10 @@
+# ignore every thing
+*
+
+# don't ignore this
+!.gitignore
+!README.md
+!nvim/*
+!zellij/*
+!lazygit/*
+!starship.toml
